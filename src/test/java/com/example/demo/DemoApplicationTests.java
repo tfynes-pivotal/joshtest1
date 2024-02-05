@@ -10,7 +10,7 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		//   Assert.state(false, "oops");
+		   Assert.state(false, "oops");
 	}
 
 }
