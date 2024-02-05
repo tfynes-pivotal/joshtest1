@@ -13,7 +13,7 @@ public class DemoApplication {
 
 	@GetMapping("/hello")
 	Map<String, String> hello() {
-		return Map.of("message", "Hello, TAP!");
+		return Map.of("message", "Hello, TAP (and not gradle)!");
 	}
 
 	public static void main(String[] args) {
