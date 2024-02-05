@@ -7,6 +7,7 @@ import org.springframework.util.Assert;
 @SpringBootTest
 class DemoApplicationTests {
 
+
 	@Test
 	void contextLoads() {
 		Assert.state(false, "oops");
